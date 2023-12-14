@@ -4,6 +4,45 @@
   
     
     <entry>
+      <title>自组服务器笔记</title>
+      <link href="/2023/12/13/%E8%87%AA%E7%BB%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AC%94%E8%AE%B0/"/>
+      <url>/2023/12/13/%E8%87%AA%E7%BB%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AC%94%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h1><p>  原本打算用R230和1u服务器去负责储存和计算，无奈的是开机噪音巨大且相对费电。重新计算了自己的需求修改了自己的服务器硬件配置。这俩玩意是真的吵。</p><h1 id="硬件购买"><a href="#硬件购买" class="headerlink" title="硬件购买"></a>硬件购买</h1><p> 机箱 不知名半高matx机箱<br> 主板 X1SCL-F<br> CPU  9100f<br> 内存 ecc 2133 8Gx3<br> 硬盘 PM983A 900g x2<br>      tiplus 5100 512g<br>      sc001 512G x2<br> 电源 250w</p><h1 id="软件构建"><a href="#软件构建" class="headerlink" title="软件构建"></a>软件构建</h1><p> 系统我选择了基于Debian的PVE ,无他，用习惯了。计划用于黑裙、Debian以及homeassiistant。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 基础知识 </category>
+          
+          <category> hexo </category>
+          
+          <category> 笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> github </tag>
+            
+            <tag> 博客 </tag>
+            
+            <tag> C242 </tag>
+            
+            <tag> 服务器 </tag>
+            
+            <tag> PVE </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2023/12/12/hello-world/"/>
       <url>/2023/12/12/hello-world/</url>
